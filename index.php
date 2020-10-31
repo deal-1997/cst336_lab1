@@ -23,9 +23,9 @@
         <br>
         <nav>
     </body>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
             <p align="center">                
             <img src="img/deen_altawil.jpg" height="450">
             </p>
